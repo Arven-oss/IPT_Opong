@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/drawable_microsoft_logo.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/drawable/microsoft_logo.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/drawable_pinterest_dark_green.jpg.flat",
+        "source": "com.example.ipt_opong.app-main-49:/drawable/pinterest_dark_green.jpg"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/drawable_google__g__logo.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/drawable/google__g__logo.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/drawable_artificial_intelligence.png.flat",
+        "source": "com.example.ipt_opong.app-main-49:/drawable/artificial_intelligence.png"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/layout_register.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/layout/register.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/layout_login.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/drawable_phone_icon.png.flat",
+        "source": "com.example.ipt_opong.app-main-49:/drawable/phone_icon.png"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/drawable__174767936661735334.jpg.flat",
+        "source": "com.example.ipt_opong.app-main-49:/drawable/_174767936661735334.jpg"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/layout_chat.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/layout/chat.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/xml_backup_rules.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.ipt_opong.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.ipt_opong.app-debug-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.ipt_opong.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
